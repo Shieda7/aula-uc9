@@ -1,0 +1,15 @@
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\bin\Debug\net6.0\AULA UC9.exe
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\bin\Debug\net6.0\AULA UC9.deps.json
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\bin\Debug\net6.0\AULA UC9.runtimeconfig.json
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\bin\Debug\net6.0\AULA UC9.dll
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\bin\Debug\net6.0\AULA UC9.pdb
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\obj\Debug\net6.0\AULA UC9.csproj.AssemblyReference.cache
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\obj\Debug\net6.0\AULA UC9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\obj\Debug\net6.0\AULA UC9.AssemblyInfoInputs.cache
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\obj\Debug\net6.0\AULA UC9.AssemblyInfo.cs
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\obj\Debug\net6.0\AULA UC9.csproj.CoreCompileInputs.cache
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\obj\Debug\net6.0\AULA UC9.dll
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\obj\Debug\net6.0\refint\AULA UC9.dll
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\obj\Debug\net6.0\AULA UC9.pdb
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\obj\Debug\net6.0\AULA UC9.genruntimeconfig.cache
+C:\Users\shied\OneDrive\Área de Trabalho\AULA UC9\obj\Debug\net6.0\ref\AULA UC9.dll
